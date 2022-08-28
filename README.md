@@ -1,2 +1,2 @@
-# testopenshif-jns
+# testopenshift-jns
 Test repo for open shift
